@@ -1,7 +1,7 @@
 # How to create an automation with Task Scheduler on Win11
 
 ### 1. Search "Task Scheduler" in the search bar and open it
-<image src="check_battery_status/images/img1.png" width="600">
+<image src="check_battery_status/assets/img1.png" width="600">
 
 ### 2. On the right side, press "Create basic task"
 <image src="check_battery_status/images/img2.png" width="300">
