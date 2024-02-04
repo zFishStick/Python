@@ -9,7 +9,7 @@
 ### 3. Give the task a name and, optionally, a description, then press "Next"
 <image src="assets/img3.png" width="350">
 
-### 4. In this section, set the task trigger to "When the computer starts", in this way, your task will run as soon as you turn on the PC, executing the loop inside the code
+### 4. In this section, set the task trigger to "When I log on", in this way, your task will run as soon as you log in, executing the loop inside the code
 <image src="assets/img4.png" width="350">
 
 ### 5. Here, set to "Start a program"
