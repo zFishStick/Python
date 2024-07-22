@@ -54,7 +54,7 @@ while True:
             notification_thread = threading.Thread(target=show_toast, 
                                                    args=('Battery about %s%%' % (battery_percentage), 
                                                          'Battery low, please put in charge your PC', 
-                                                         charged_battery_icon))
+                                                         low_battery_icon))
             sound_thread = threading.Thread(target=play_sound, args=(low_battery_sound,))
             thread_init(notification_thread, sound_thread)
             loopToken = False #In this way it doesn't go in a infinite loop
