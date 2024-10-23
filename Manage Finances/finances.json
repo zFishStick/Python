@@ -1,0 +1,22 @@
+{
+    "2024": [
+        {
+            "type": "Uscita",
+            "name": "Ortofrutta",
+            "date": "12/09/2024",
+            "value": 3000
+        },
+        {
+            "type": "Uscita",
+            "name": "Tasse",
+            "date": "19/09/2024",
+            "value": 1518
+        },
+        {
+            "type": "Entrata",
+            "name": "Stipendio",
+            "date": "18/09/2024",
+            "value": 1800
+        }
+    ]
+}
